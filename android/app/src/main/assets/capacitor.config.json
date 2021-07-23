@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "ListaItens",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
